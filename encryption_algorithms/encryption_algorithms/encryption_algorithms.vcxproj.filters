@@ -18,7 +18,7 @@
     <ClCompile Include="main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="algorithms.cpp">
+    <ClCompile Include="BadamshinXOR.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>

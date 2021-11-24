@@ -1,5 +1,5 @@
 #include <iostream>
-#include <string>
+#include <sstream>
 
 using namespace std;
 
@@ -8,9 +8,7 @@ using namespace std;
 #define ALGORITHMS_H
 namespace algorithms
 {
+	// Badamshin Marat
 	string xorAlgorithms(string&);
-	string rc4Algorithms(string&);
-	string salsa20Algorithms(string&);
-	string rsaAlgorithms(string&);
 }
 #endif // !ALGORITHMS_H
