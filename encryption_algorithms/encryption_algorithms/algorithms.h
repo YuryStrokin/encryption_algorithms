@@ -1,4 +1,5 @@
 #include <iostream>
+#include <sstream>
 
 using namespace std;
 
@@ -8,6 +9,6 @@ using namespace std;
 namespace algorithms
 {
 	// Badamshin Marat
-	string xorAlgorithms(string&);
+	void xorAlgorithms(stringstream&);
 }
 #endif // !ALGORITHMS_H
