@@ -1,9 +1,3 @@
-/***********************************************************
-* Standard RC4 Encryption
-* C++ Class
-* Coded by Viotto © BreakingSecurity.net
-***********************************************************/
-
 #include <string>
 using namespace std;
 
@@ -19,7 +13,7 @@ public:
 	void Initialize(unsigned char* pKey, unsigned int lenKey);
 
 private:
-	int m_sBox[256]; //substitution-box
+	int m_sBox[256]; // Переменная для подстановки 
 	int a, b;	
 	unsigned char swap;
 };
