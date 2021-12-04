@@ -2,7 +2,7 @@
 
 
 // Badamshin Marat, XOR
-void algorithms::xorAlgorithms(stringstream& input)
+string xorAlgorithms(string& input)
 {
 	return;
 };

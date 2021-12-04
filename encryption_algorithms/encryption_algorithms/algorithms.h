@@ -6,9 +6,8 @@ using namespace std;
 
 #ifndef ALGORITHMS_H
 #define ALGORITHMS_H
-namespace algorithms
-{
-	// Badamshin Marat
-	void xorAlgorithms(stringstream&);
-}
+
+// Badamshin Marat
+string xorAlgorithms(string&);
+
 #endif // !ALGORITHMS_H
