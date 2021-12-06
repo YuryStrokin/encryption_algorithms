@@ -144,7 +144,7 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="algorithms.h" />
+    <ClInclude Include="BadamshinXOR.h" />
     <ClInclude Include="cRC4.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

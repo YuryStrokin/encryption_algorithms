@@ -26,7 +26,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="algorithms.h">
+    <ClInclude Include="BadamshinXOR.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="cRC4.h">
