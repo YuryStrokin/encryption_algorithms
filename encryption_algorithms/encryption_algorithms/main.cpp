@@ -22,7 +22,6 @@ int main(int argc, char* argv)
 			while (!fin.eof())
 			{
 				getline(fin, data);
-
 			}
 		}
 		else
